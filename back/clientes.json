@@ -1,0 +1,1 @@
+[{"id":1,"nombre":"Aaron","apellido":"Rodriguez","habilitado":true,"tipo":"empleado"},{"id":2,"nombre":"Lionel","apellido":"Messi","habilitado":true,"tipo":"cliente"},{"id":3,"nombre":"Jose","apellido":"Martin","habilitado":"false","tipo":"proveedor"}]
