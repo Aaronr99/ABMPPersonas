@@ -1,4 +1,4 @@
-# ABMPersonas
+# ABM Personas
 
 Proyecto con React, NodeJs y Material UI. Utilizando TypeScript.
 
